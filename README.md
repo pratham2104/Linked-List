@@ -2,8 +2,8 @@
 
 This repository contains two implementations of a student management system that utilizes a linked list to manage student data. The two programs are:
 
-1. **Custom Linked List Implementation**: Implements a linked list using custom `Node` objects and manual pointer manipulation.
-2. **Java LinkedList Library Implementation**: Utilizes Java's built-in `LinkedList` class for efficient list operations.
+1. **Custom Linked List Implementation (linkedList.java)**: Implements a linked list using custom `Node` objects and manual pointer manipulation.
+2. **Java LinkedList Library Implementation (LinkedListManager)**: Utilizes Java's built-in `LinkedList` class for efficient list operations.
 
 Both programs allow you to add, remove, search, and display student information, as well as generate a large dataset of 100,000 students for performance testing.
 
